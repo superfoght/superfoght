@@ -6,8 +6,7 @@
 
 📫 You can write to me on bfo@praxis.dk
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superfoght)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superfoght&show_icons=true&theme=radical)
 
 <!---
 superfoght/superfoght is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
