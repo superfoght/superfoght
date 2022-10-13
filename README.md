@@ -1,4 +1,4 @@
-👋 Hi, I’m @superfoght
+👋 Hi, I’m @superfoght aka Bo Foght
 
 🔨 I’m currently working with @praxisdigital
 
